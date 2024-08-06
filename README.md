@@ -7,7 +7,7 @@ It is also classified as a pixel-based image segmentation method since it involv
 
 This approach to segmentation examines neighboring pixels of initial seed points and determines whether the pixel neighbors 
 should be added to the region. The process is iterated on, in the same manner as general data clustering algorithms.
-![Source](https://en.wikipedia.org/wiki/Region_growing)
+[`Source`](https://en.wikipedia.org/wiki/Region_growing)
 
 This method is detailed in the Jupyter notebook `RegionGrowing.ipynb`
  
